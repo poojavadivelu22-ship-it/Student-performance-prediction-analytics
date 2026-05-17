@@ -1,0 +1,16 @@
+Student_ID,Gender,Attendance_Percentage,Study_Hours_Per_Day,Assignment_Score,Internal_Marks,Participation,Internet_Access,Previous_Sem_Marks,Final_Result
+S101,Female,92,4,85,78,Yes,Yes,80,Pass
+S102,Male,65,1,50,45,No,Yes,40,Fail
+S103,Female,88,3,75,70,Yes,Yes,72,Pass
+S104,Male,55,2,40,38,No,No,35,Fail
+S105,Female,95,5,90,85,Yes,Yes,88,Pass
+S106,Male,70,2,60,55,No,Yes,58,Pass
+S107,Female,45,1,35,30,No,No,28,Fail
+S108,Male,85,4,80,76,Yes,Yes,79,Pass
+S109,Female,78,3,68,64,Yes,Yes,66,Pass
+S110,Male,50,1,42,36,No,No,32,Fail
+S111,Female,90,5,88,82,Yes,Yes,84,Pass
+S112,Male,60,2,55,48,No,Yes,46,Fail
+S113,Female,82,3,72,69,Yes,Yes,71,Pass
+S114,Male,48,1,38,34,No,No,30,Fail
+S115,Female,96,6,94,90,Yes,Yes,91,Pass
