@@ -34,5 +34,12 @@ The dataset contains student details such as:
 - Low assignment scores may lead to failure
 - Internal marks strongly affect final results
 
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/81c88a78-9964-4027-8759-7b21cec22673" />
+
+<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/d798b9cb-5b8f-4a06-a9cc-a439cc9b4873" />
+
+<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/3985f76f-c37e-4de5-b02a-3b4da45945c7" />
+
 ## 🚀 Conclusion
 Data analytics helps educational institutions identify weak-performing students early and improve student academic performance through proper guidance and support.
