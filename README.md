@@ -1,5 +1,8 @@
 # Student Performance Prediction - Data Analytics Project
 
+##Demo
+https://student-performance-prediction-analytics-fk3yqcvjc3k7hd6jee7fc.streamlit.app/
+
 ## 📊 Overview
 This project analyzes student academic performance data to identify factors affecting student results and predict whether a student may pass or fail.
 
